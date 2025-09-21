@@ -1,0 +1,8 @@
+{
+  "name": "MindWeave+",
+  "description": "A proactive mental-health companion that predicts emotional dips, offers micro-support, and provides a reflective journaling space—all while prioritizing user privacy through on-device processing simulations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
